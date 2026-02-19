@@ -1,0 +1,2 @@
+# Multi Commit Squash Test
+
